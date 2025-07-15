@@ -19,7 +19,7 @@ This Python project scrapes the **Top 50 most highly ranked films** from a snaps
 
 ## 📦 Requirements
 
-- Python 3.x
+- Python
 - `requests`
 - `beautifulsoup4`
 - `pandas`
