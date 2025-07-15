@@ -17,7 +17,7 @@ This project is a simple **ETL (Extract, Transform, Load)** pipeline in Python t
 
 ## 📦 Requirements
 
-- Python 3.x
+- Python
 - `pandas`
 
 Install dependencies:
