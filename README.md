@@ -38,5 +38,5 @@ This suite was built to:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/Web-ETL-Suite.git
+git clone https://github.com/aniketh0418/Web-ETL-Suite.git
 cd Web-ETL-Suite
