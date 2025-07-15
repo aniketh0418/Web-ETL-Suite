@@ -20,6 +20,9 @@ Extracts country-wise nominal GDP data from an archived Wikipedia page, converts
 ### 🔹 [`Global-Banks-ETL`](Global-Banks-ETL)
 Scrapes the largest banks by market capitalization, applies currency conversion using custom exchange rates, and runs SQL queries for insights.
 
+### 🔹 [`CSV-to-SQLite-Loader`](CSV-to-SQLite-Loader)
+Demonstrates how to load a CSV file into a SQLite database using Python and `pandas`. It also shows how to run SQL queries on the database table using Python.
+
 ---
 
 ## 🎯 Purpose
