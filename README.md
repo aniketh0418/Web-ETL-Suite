@@ -11,7 +11,7 @@ Each subfolder is a self-contained ETL project with its own script, README, and 
 ### 🔹 [`Top50-Movies-Scraper`](Top50-Movies-Scrapper)
 Scrapes the Top 50 most highly ranked films from an archived webpage, stores them in a DataFrame, and saves to CSV and SQLite.
 
-### 🔹 [`MultiFormat-ETL-Pipeline`](./MultiFormat-ETL-Pipeline)
+### 🔹 [`MultiFormat-ETL-Pipeline`](MultiFormat-ETL-Pipeline)
 Reads and consolidates data from multiple file formats (CSV, JSON, XML), transforms it, and loads it into a unified CSV. Demonstrates flexible data ingestion.
 
 ### 🔹 [`Global-GDP-ETL-Pipeline`](./Global-GDP-ETL-Pipeline)
