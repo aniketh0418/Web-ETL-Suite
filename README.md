@@ -14,10 +14,10 @@ Scrapes the Top 50 most highly ranked films from an archived webpage, stores the
 ### 🔹 [`MultiFormat-ETL-Pipeline`](MultiFormat-ETL-Pipeline)
 Reads and consolidates data from multiple file formats (CSV, JSON, XML), transforms it, and loads it into a unified CSV. Demonstrates flexible data ingestion.
 
-### 🔹 [`Global-GDP-ETL-Pipeline`](./Global-GDP-ETL-Pipeline)
+### 🔹 [`Global-GDP-ETL-Pipeline`](Global-GDP-ETL-Pipeline)
 Extracts country-wise nominal GDP data from an archived Wikipedia page, converts values from millions to billions, and stores the data in multiple formats.
 
-### 🔹 [`Global-Banks-ETL`](./Global-Banks-ETL)
+### 🔹 [`Global-Banks-ETL`](Global-Banks-ETL)
 Scrapes the largest banks by market capitalization, applies currency conversion using custom exchange rates, and runs SQL queries for insights.
 
 ---
