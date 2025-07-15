@@ -38,3 +38,5 @@ git clone https://github.com/aniketh0418/Web-ETL-Suite.git
 cd Web-ETL-Suite/Global-GDP-ETL-Pipeline
 python etl_project_gdp.py
 ```
+
+## 🌐 Data Source - https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29
