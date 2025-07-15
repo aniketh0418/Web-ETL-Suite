@@ -8,7 +8,7 @@ Web-ETL-Suite is a collection of Python ETL pipelines that scrape data from arch
 
 Each subfolder is a self-contained ETL project with its own script, README, and output files:
 
-### 🔹 [`Top50-Movies-Scraper`](./Top50-Movies-Scraper)
+### 🔹 [`Top50-Movies-Scraper`](Top50-Movies-Scrapper)
 Scrapes the Top 50 most highly ranked films from an archived webpage, stores them in a DataFrame, and saves to CSV and SQLite.
 
 ### 🔹 [`MultiFormat-ETL-Pipeline`](./MultiFormat-ETL-Pipeline)
