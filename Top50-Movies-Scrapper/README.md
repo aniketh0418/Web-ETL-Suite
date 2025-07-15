@@ -30,6 +30,7 @@ You can install the required packages with:
 
 ```bash
 pip install requests beautifulsoup4 pandas
+```
 
 ## 🚀 To Run
 
